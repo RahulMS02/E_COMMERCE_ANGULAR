@@ -1,0 +1,41 @@
+<nav class="navbar row" style="background-color:rgb(19, 21, 145);">
+    <div class="col-12 col-md-3">
+      <div class="navbar-brand">
+        <a routerLink="/"><img width="150px" src="/assets/images/R_LOGO.jpg" /></a>
+      </div>
+    </div>
+
+    <div class="col-12 col-md-6 mt-2 mt-md-0">
+      <div class="input-group">
+        <input style="font-family: 'Times New Roman', Times, serif;"
+          type="text"
+          id="search_field"
+          class="form-control"
+          placeholder="Enter the Product Name"
+          [(ngModel)]="searchText"
+          (input)="clearSearch()"
+          (keydown.enter)="searchByEnterKey()"
+        />
+        <div class="input-group-append">
+          <button (click)="search()" id="search_btn" class="btn" style="background-color: rgb(253, 180, 115);">
+            <i class="fa fa-search" aria-hidden="true"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-12 col-md-3 mt-4 mt-md-0 text-center">
+      <a routerLink="/login"><button class="btn" id="login_btn" style="background-color:rgb(253, 180, 115) ;font-family: 'Times New Roman', Times, serif;color:white;font-size: 23px;font-weight: bold;">Login</button></a>
+      <a routerLink="/cart">
+        <span id="cart" class="ml-3" style="font-size: 20px;font-weight: bold;font-family: Georgia, 'Times New Roman', Times, serif;">My Cart </span>
+        <span class="ml-1" id="cart_count" style="background-color:rgb(253, 180, 115) ;">{{cartCount}}</span>
+      </a>
+    </div>
+</nav>
+<router-outlet></router-outlet>
+
+<footer class="py-1" style="background-color:rgb(19, 21, 145) ;">
+    <p class="text-center mt-1" style="color: rgb(249, 245, 245);font-family: 'Times New Roman', Times, serif;">
+        CricTracK cart - All Rights Reserved
+    </p>
+</footer>
