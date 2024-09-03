@@ -1,0 +1,236 @@
+[ {
+  "name": "MRF Genius Grand Edition Cricket Bat",
+  "price": 75.49,
+  "description": "The MRF Genius Grand Edition bat is crafted for professional players, featuring thick edges and a curved blade for powerful shots.",
+  "ratings": 4.7,
+  "images": [
+    { "image": "/images/products/10.jpg" },
+    { "image": "/images/products/bats/mrf_2.jpg" }
+  ],
+  "category": "Cricket Bats",
+  "seller": "Flipkart",
+  "stock": 8
+},
+{
+  "name": "SS Ton Maximus Cricket Bat",
+  "price": 65.25,
+  "description": "The SS Ton Maximus is an advanced cricket bat made from Grade 1 English Willow, offering perfect balance and power for all types of players.",
+  "ratings": 4.6,
+  "images": [
+    { "image": "/images/products/11.jpg" },
+    { "image": "/images/products/bats/ss_2.jpg" }
+  ],
+  "category": "Cricket Bats",
+  "seller": "SS Official Store",
+  "stock": 10
+},
+{
+  "name": "Gray-Nicolls Legend Cricket Bat",
+  "price": 85.00,
+  "description": "The Gray-Nicolls Legend bat is a high-performance bat crafted from the finest English Willow, designed for professionals who demand the best.",
+  "ratings": 4.8,
+  "images": [
+    { "image": "/images/products/12.jpg" },
+    { "image": "/images/products/bats/graynicolls_2.jpg" }
+  ],
+  "category": "Cricket Bats",
+  "seller": "Gray-Nicolls Official",
+  "stock": 5
+},
+{
+    "name": "SG Phoenix Xtreme English Willow Cricket Bat",
+    "price": 199.99,
+    "description": "The SG Phoenix Xtreme is a top-grade English Willow cricket bat, known for its superior balance and power. Ideal for professional players.",
+    "ratings": 4.7,
+    "images": [
+        {
+            "image": "/images/products/SG_Willow.jpg"
+        },
+        {
+            "image": "/images/products/cricket-bat-2.jpg"
+        }
+    ],
+    "category": "Cricket Bats",
+    "seller": "Amazon",
+    "stock": 10
+},
+{
+  "name": "SG Club Leather Cricket Ball",
+  "price": 18.49,
+  "description": "The SG Club Leather Cricket Ball is perfect for club-level matches, providing a reliable and durable option for both practice and competition.",
+  "ratings": 4.3,
+  "images": [
+    { "image": "/images/products/13.jpg" },
+    { "image": "/images/products/balls/sg_2.jpg" }
+  ],
+  "category": "Cricket Balls",
+  "seller": "Flipkart",
+  "stock": 20
+},
+{
+  "name": "Dukes County International Cricket Ball",
+  "price": 30.75,
+  "description": "The Dukes County International Cricket Ball is hand-stitched and crafted from premium leather, known for its exceptional seam and swing, favored by professional players.",
+  "ratings": 4.8,
+  "images": [
+    { "image": "/images/products/14.jpg" },
+    { "image": "/images/products/balls/dukes_2.jpg" }
+  ],
+  "category": "Cricket Balls",
+  "seller": "Dukes Official Store",
+  "stock": 10
+},
+{
+  "name": "Gray-Nicolls Omega XRD Cricket Ball",
+  "price": 22.99,
+  "description": "The Gray-Nicolls Omega XRD Cricket Ball is engineered for balance and control, offering a great option for both amateur and professional games.",
+  "ratings": 4.5,
+  "images": [
+    { "image": "/images/products/15.jpg" },
+    { "image": "/images/products/balls/graynicolls_2.jpg" }
+  ],
+  "category": "Cricket Balls",
+  "seller": "Gray-Nicolls Official",
+  "stock": 12
+},
+{
+    "name": "Kookaburra Rapid Pro Cricket Ball",
+    "price": 25.49,
+    "description": "The Kookaburra Rapid Pro is a high-quality cricket ball used in international matches. It offers excellent swing and durability.",
+    "ratings": 4.3,
+    "images": [
+        {
+            "image": "/images/products/CRIC_Ball.jpg"
+        }
+    ],
+    "category": "Cricket Balls",
+    "seller": "Flipkart",
+    "stock": 20
+},
+{
+    "name": "Puma EvoSpeed 1.5 Cricket Shoes",
+    "price": 89.99,
+    "description": "Designed for speed and comfort, the Puma EvoSpeed 1.5 cricket shoes provide excellent grip and support on the field.",
+    "ratings": 4.6,
+    "images": [
+        {
+            "image": "/images/products/PUMA_Shoe.jpg"
+        },
+        {
+            "image": "/images/products/cricket-shoes-2.jpg"
+        }
+    ],
+    "category": "Cricket Shoes",
+    "seller": "Amazon",
+    "stock": 15
+},
+{
+  "name": "Nike Air Zoom Pegasus 38",
+  "price": 120.00,
+  "description": "The Nike Air Zoom Pegasus 38 continues to put a spring in your step, featuring responsive cushioning and a lightweight, breathable upper for maximum comfort during runs.",
+  "ratings": 4.7,
+  "images": [
+    { "image": "/images/products/16.jpg" },
+    { "image": "/images/products/shoes/nike_pegasus_2.jpg" }
+  ],
+  "category": "Running Shoes",
+  "seller": "Nike Official Store",
+  "stock": 10
+},
+{
+  "name": "Adidas Ultraboost 21",
+  "price": 150.00,
+  "description": "The Adidas Ultraboost 21 offers exceptional energy return and a comfortable fit, with a flexible Primeknit upper and Boost midsole designed for long-distance running.",
+  "ratings": 4.8,
+  "images": [
+    { "image": "/images/products/17.jpg" },
+    { "image": "/images/products/shoes/adidas_ultraboost_2.jpg" }
+  ],
+  "category": "Running Shoes",
+  "seller": "Adidas Official Store",
+  "stock": 8
+},
+{
+    "name": "SS Elite Cricket Helmet",
+    "price": 59.99,
+    "description": "The SS Elite helmet offers top-notch protection with its strong ABS shell and comfortable fit. Suitable for both amateur and professional cricketers.",
+    "ratings": 4.4,
+    "images": [
+        {
+            "image": "/images/products/SS_Helmet.jpg"
+        }
+    ],
+    "category": "Cricket Helmets",
+    "seller": "Myntra",
+    "stock": 8
+},
+{
+  "name": "Masuri Original Series Cricket Helmet",
+  "price": 120.00,
+  "description": "The Masuri Original Series Cricket Helmet offers superior protection with its high-quality polycarbonate shell and innovative impact protection technology. Designed for professional players seeking the best safety and comfort.",
+  "ratings": 4.6,
+  "images": [
+    { "image": "/images/products/18.jpg" },
+    { "image": "/images/products/helmets/masuri_2.jpg" }
+  ],
+  "category": "Cricket Helmets",
+  "seller": "Masuri Official Store",
+  "stock": 8
+},
+{
+  "name": "SG Test Cricket Helmet",
+  "price": 95.00,
+  "description": "The SG Test Cricket Helmet is designed for both amateur and professional players, featuring a durable steel grill, adjustable chin strap, and a comfortable padded interior for maximum protection and fit.",
+  "ratings": 4.4,
+  "images": [
+    { "image": "/images/products/19.jpg" },
+    { "image": "/images/products/helmets/sg_2.jpg" }
+  ],
+  "category": "Cricket Helmets",
+  "seller": "SG Official Store",
+  "stock": 10
+},
+{
+    "name": "GM Original Cricket Batting Gloves",
+    "price": 45.79,
+    "description": "GM Original batting gloves provide excellent protection and comfort with their superior padding and ergonomic design.",
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/GM_Glove.jpg"
+        },
+        {
+            "image": "/images/products/cricket-gloves-2.jpg"
+        }
+    ],
+    "category": "Cricket Gloves",
+    "seller": "Flipkart",
+    "stock": 12
+},
+{
+  "name": "Kookaburra Kahuna Pro 1000 Cricket Gloves",
+  "price": 65.00,
+  "description": "The Kookaburra Kahuna Pro 1000 Cricket Gloves offer premium protection and comfort with high-quality leather and a multi-flex design for enhanced grip and flexibility. Ideal for professional cricketers.",
+  "ratings": 4.6,
+  "images": [
+    { "image": "/images/products/20.jpg" },
+    { "image": "/images/products/gloves/kookaburra_2.jpg" }
+  ],
+  "category": "Cricket Gloves",
+  "seller": "Kookaburra Official Store",
+  "stock": 12
+},
+{
+  "name": "SG Test Cricket Gloves",
+  "price": 55.00,
+  "description": "The SG Test Cricket Gloves are designed for excellent protection and comfort, featuring premium leather, cushioned palms, and advanced finger protection. Suitable for both amateur and professional players.",
+  "ratings": 4.4,
+  "images": [
+    { "image": "/images/products/21.jpg" },
+    { "image": "/images/products/gloves/sg_2.jpg" }
+  ],
+  "category": "Cricket Gloves",
+  "seller": "SG Official Store",
+  "stock": 10
+}
+]
